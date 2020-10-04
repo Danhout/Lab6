@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2110121908,
+    "name": "Name",
+    "coordinates": {
+      "x": 2,
+      "y": 2
+    },
+    "creationDate": {
+      "dateTime": {
+        "date": {
+          "year": 2020,
+          "month": 10,
+          "day": 4
+        },
+        "time": {
+          "hour": 23,
+          "minute": 12,
+          "second": 42,
+          "nano": 80000000
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": "Europe/Moscow"
+    },
+    "health": 32,
+    "height": 23,
+    "category": "ASSAULT",
+    "meleeWeapon": "CHAIN_SWORD",
+    "chapter": {
+      "name": "CHAPTER",
+      "parentLegion": "LEGION",
+      "marinesCount": 3,
+      "world": "WORLD"
+    }
+  }
+]
